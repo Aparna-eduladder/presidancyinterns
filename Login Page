@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Eduladder login page></title>
+</head>
+<body><p align="middle">
+<img src="http://eduladder.com/images/app/logo.jpg" alt="Eduladder Logo" style="width:280px;height:215px;"/>
+</p>
+<h1>Login here</h1>
+<label><b>Username/UserID</b></label>
+    <input type="text" placeholder="Enter your username" name="username" required>
+    <br></br>
+<label><b>Password</b></label>
+    <input type="password" placeholder="Enter your Password(alphanumeric)" name="pd" required>
+    <br></br>
+    <button type="submit">Login</button>
+    <button type="button" class="cancelbtn">Cancel</button>
+    <br></br>
+    <input type="checkbox" checked="checked"> Remember me
+    <br></br>
+</body>
+</html>
